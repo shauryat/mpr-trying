@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  height: 100vh;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}
+
+.marger {
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.author {
+  color: grey;
+}
